@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="492" viewBox="0 0 860 492" role="img" aria-label="Cases: Singular OS, No ar em português, com aprovação humana nas ações dos agentes; Equipe de IA, 10 funcionários de IA em 5 áreas da operação; Motion com IA, 1 aprovação: o roteiro; o resto o agente faz e confere; Kit de Produção, 5 etapas, do pedido à entrega com evidência">
+<title>Cases: Singular OS, No ar em português, com aprovação humana nas ações dos agentes; Equipe de IA, 10 funcionários de IA em 5 áreas da operação; Motion com IA, 1 aprovação: o roteiro; o resto o agente faz e confere; Kit de Produção, 5 etapas, do pedido à entrega com evidência</title>
+<style>
+.up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.run{stroke-dasharray:9 91;animation:run 7s linear infinite}
+@keyframes run{to{stroke-dashoffset:-100}}
+.shine{animation:shine 8s ease-in-out infinite}
+@keyframes shine{0%,72%{transform:translateX(-420px)}100%{transform:translateX(1300px)}}
+.ln{stroke-dasharray:100;stroke-dashoffset:100;animation:ln 1.4s ease forwards}
+@keyframes ln{to{stroke-dashoffset:0}}
+.emo{font:22px 'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif}
+.ct{font:700 21px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF0FA}
+.cs{font:500 13px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#95A3BA}
+.cp{font:700 10.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.3px;fill:#165DFF}
+.cn{font:400 50px Georgia,'Times New Roman',serif;fill:url(#g)}
+.cl{font:500 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#C4CFE0}
+.cf{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#7F8CA3}
+.nn{font:400 46px Georgia,'Times New Roman',serif;fill:url(#g)}
+.nl{font:500 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#C4CFE0}
+.mk{font:400 20px Georgia,'Times New Roman',serif;fill:#165DFF}
+.mt{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF0FA}
+.ms{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#95A3BA}
+.gt{font:700 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF0FA}
+.pt{font:700 14.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF0FA}
+.ps{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#95A3BA}
+.at{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#EAF0FA}
+.as{font:500 12px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#95A3BA}
+.ap{font:700 9.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.2px;fill:#165DFF}
+.al{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#C4CFE0}
+</style>
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#B4CCFF"/><stop offset="1" stop-color="#4F82FF"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#DCEEFF" stop-opacity="0"/><stop offset=".5" stop-color="#DCEEFF" stop-opacity=".09"/><stop offset="1" stop-color="#DCEEFF" stop-opacity="0"/></linearGradient>
+</defs>
+<g transform="translate(0.0,0)"><rect x="1" y="1" width="418" height="234" rx="16" fill="#0F1420" stroke="#232D40"/>
+<clipPath id="cc0"><rect x="1" y="1" width="418" height="234" rx="16"/></clipPath>
+<g clip-path="url(#cc0)"><g class="shine"><rect x="0" y="-20" width="150" height="276" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="418" height="234" rx="16" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<rect x="22" y="22" width="40" height="40" rx="11" fill="#161D2C" stroke="#232D40"/>
+<text class="emo" x="42" y="50" text-anchor="middle">🧠</text>
+<text class="ct" x="76" y="40">Singular OS</text>
+<text class="cs" x="76" y="59">workspace de agentes de IA</text>
+<rect x="265.0" y="22" width="133.0" height="22" rx="11.0" fill="#161D2C" stroke="#2F3B52"/><text class="cp" x="331.5" y="37.0" text-anchor="middle">PRODUTO PRÓPRIO</text>
+<g class="up" style="animation-delay:0.10s"><text class="cn" x="22" y="138">No ar</text></g>
+<g class="up" style="animation-delay:0.35s"><text class="cl" x="24" y="166" text-anchor="start">em português, com aprovação</text><text class="cl" x="24" y="185" text-anchor="start">humana nas ações dos agentes</text></g>
+<line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#232D40" pathLength="100" style="animation-delay:0.50s"/>
+<g class="up" style="animation-delay:0.60s"><text class="cf" x="24" y="219">Cloudflare Workers · base aberta da Cloudflare</text></g></g><g transform="translate(440.0,0)"><rect x="1" y="1" width="418" height="234" rx="16" fill="#0F1420" stroke="#232D40"/>
+<clipPath id="cc1"><rect x="1" y="1" width="418" height="234" rx="16"/></clipPath>
+<g clip-path="url(#cc1)"><g class="shine"><rect x="0" y="-20" width="150" height="276" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="418" height="234" rx="16" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<rect x="22" y="22" width="40" height="40" rx="11" fill="#161D2C" stroke="#232D40"/>
+<text class="emo" x="42" y="50" text-anchor="middle">🏢</text>
+<text class="ct" x="76" y="40">Equipe de IA</text>
+<text class="cs" x="76" y="59">operação interna da Singular</text>
+<rect x="265.0" y="22" width="133.0" height="22" rx="11.0" fill="#161D2C" stroke="#2F3B52"/><text class="cp" x="331.5" y="37.0" text-anchor="middle">PRODUTO PRÓPRIO</text>
+<g class="up" style="animation-delay:0.35s"><text class="cn" x="22" y="138">10</text></g>
+<g class="up" style="animation-delay:0.60s"><text class="cl" x="24" y="166" text-anchor="start">funcionários de IA</text><text class="cl" x="24" y="185" text-anchor="start">em 5 áreas da operação</text></g>
+<line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#232D40" pathLength="100" style="animation-delay:0.75s"/>
+<g class="up" style="animation-delay:0.85s"><text class="cf" x="24" y="219">pedidos pelo Telegram · entrega para aprovação</text></g></g><g transform="translate(0.0,256)"><rect x="1" y="1" width="418" height="234" rx="16" fill="#0F1420" stroke="#232D40"/>
+<clipPath id="cc2"><rect x="1" y="1" width="418" height="234" rx="16"/></clipPath>
+<g clip-path="url(#cc2)"><g class="shine"><rect x="0" y="-20" width="150" height="276" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="418" height="234" rx="16" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<rect x="22" y="22" width="40" height="40" rx="11" fill="#161D2C" stroke="#232D40"/>
+<text class="emo" x="42" y="50" text-anchor="middle">🎬</text>
+<text class="ct" x="76" y="40">Motion com IA</text>
+<text class="cs" x="76" y="59">reels de marca feitos por agente</text>
+<rect x="265.0" y="22" width="133.0" height="22" rx="11.0" fill="#161D2C" stroke="#2F3B52"/><text class="cp" x="331.5" y="37.0" text-anchor="middle">PRODUTO PRÓPRIO</text>
+<g class="up" style="animation-delay:0.20s"><text class="cn" x="22" y="138">1</text></g>
+<g class="up" style="animation-delay:0.45s"><text class="cl" x="24" y="166" text-anchor="start">aprovação: o roteiro;</text><text class="cl" x="24" y="185" text-anchor="start">o resto o agente faz e confere</text></g>
+<line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#232D40" pathLength="100" style="animation-delay:0.60s"/>
+<g class="up" style="animation-delay:0.70s"><text class="cf" x="24" y="219">HyperFrames · Remotion · conferência por quadro</text></g></g><g transform="translate(440.0,256)"><rect x="1" y="1" width="418" height="234" rx="16" fill="#0F1420" stroke="#232D40"/>
+<clipPath id="cc3"><rect x="1" y="1" width="418" height="234" rx="16"/></clipPath>
+<g clip-path="url(#cc3)"><g class="shine"><rect x="0" y="-20" width="150" height="276" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="418" height="234" rx="16" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<rect x="22" y="22" width="40" height="40" rx="11" fill="#161D2C" stroke="#232D40"/>
+<text class="emo" x="42" y="50" text-anchor="middle">🧭</text>
+<text class="ct" x="76" y="40">Kit de Produção</text>
+<text class="cs" x="76" y="59">método de trabalho com IA</text>
+<rect x="331.6" y="22" width="66.4" height="22" rx="11.0" fill="#161D2C" stroke="#2F3B52"/><text class="cp" x="364.8" y="37.0" text-anchor="middle">MÉTODO</text>
+<g class="up" style="animation-delay:0.45s"><text class="cn" x="22" y="138">5</text></g>
+<g class="up" style="animation-delay:0.70s"><text class="cl" x="24" y="166" text-anchor="start">etapas, do pedido</text><text class="cl" x="24" y="185" text-anchor="start">à entrega com evidência</text></g>
+<line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#232D40" pathLength="100" style="animation-delay:0.85s"/>
+<g class="up" style="animation-delay:0.95s"><text class="cf" x="24" y="219">revisão por um segundo modelo de IA</text></g></g>
+</svg>
