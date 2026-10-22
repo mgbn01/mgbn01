@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="492" viewBox="0 0 860 492" role="img" aria-label="Cases: Singular OS, No ar em português, com aprovação humana nas ações dos agentes; Equipe de IA, 10 funcionários de IA em 5 áreas da operação; Motion com IA, 1 aprovação: o roteiro; o resto o agente faz e confere; Kit de Produção, 5 etapas, do pedido à entrega com evidência">
-<title>Cases: Singular OS, No ar em português, com aprovação humana nas ações dos agentes; Equipe de IA, 10 funcionários de IA em 5 áreas da operação; Motion com IA, 1 aprovação: o roteiro; o resto o agente faz e confere; Kit de Produção, 5 etapas, do pedido à entrega com evidência</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="492" viewBox="0 0 860 492" role="img" aria-label="Cases: Singular OS, No ar em português, com aprovação humana nas ações dos agentes; Equipe de IA, 10 funcionários de IA em 5 áreas da operação; Motion com IA, Roteiro é o que eu aprovo; o resto o agente faz e confere; Kit de Produção, Evidência em cada entrega, do pedido à verificação final">
+<title>Cases: Singular OS, No ar em português, com aprovação humana nas ações dos agentes; Equipe de IA, 10 funcionários de IA em 5 áreas da operação; Motion com IA, Roteiro é o que eu aprovo; o resto o agente faz e confere; Kit de Produção, Evidência em cada entrega, do pedido à verificação final</title>
 <style>
 .up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
 @keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
@@ -66,8 +66,8 @@
 <text class="ct" x="76" y="40">Motion com IA</text>
 <text class="cs" x="76" y="59">reels de marca feitos por agente</text>
 <rect x="265.0" y="22" width="133.0" height="22" rx="11.0" fill="#161D2C" stroke="#2F3B52"/><text class="cp" x="331.5" y="37.0" text-anchor="middle">PRODUTO PRÓPRIO</text>
-<g class="up" style="animation-delay:0.20s"><text class="cn" x="22" y="138">1</text></g>
-<g class="up" style="animation-delay:0.45s"><text class="cl" x="24" y="166" text-anchor="start">aprovação: o roteiro;</text><text class="cl" x="24" y="185" text-anchor="start">o resto o agente faz e confere</text></g>
+<g class="up" style="animation-delay:0.20s"><text class="cn" x="22" y="138">Roteiro</text></g>
+<g class="up" style="animation-delay:0.45s"><text class="cl" x="24" y="166" text-anchor="start">é o que eu aprovo; o resto</text><text class="cl" x="24" y="185" text-anchor="start">o agente faz e confere</text></g>
 <line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#232D40" pathLength="100" style="animation-delay:0.60s"/>
 <g class="up" style="animation-delay:0.70s"><text class="cf" x="24" y="219">HyperFrames · Remotion · conferência por quadro</text></g></g><g transform="translate(440.0,256)"><rect x="1" y="1" width="418" height="234" rx="16" fill="#0F1420" stroke="#232D40"/>
 <clipPath id="cc3"><rect x="1" y="1" width="418" height="234" rx="16"/></clipPath>
@@ -78,8 +78,8 @@
 <text class="ct" x="76" y="40">Kit de Produção</text>
 <text class="cs" x="76" y="59">método de trabalho com IA</text>
 <rect x="331.6" y="22" width="66.4" height="22" rx="11.0" fill="#161D2C" stroke="#2F3B52"/><text class="cp" x="364.8" y="37.0" text-anchor="middle">MÉTODO</text>
-<g class="up" style="animation-delay:0.45s"><text class="cn" x="22" y="138">5</text></g>
-<g class="up" style="animation-delay:0.70s"><text class="cl" x="24" y="166" text-anchor="start">etapas, do pedido</text><text class="cl" x="24" y="185" text-anchor="start">à entrega com evidência</text></g>
+<g class="up" style="animation-delay:0.45s"><text class="cn" x="22" y="138">Evidência</text></g>
+<g class="up" style="animation-delay:0.70s"><text class="cl" x="24" y="166" text-anchor="start">em cada entrega, do pedido</text><text class="cl" x="24" y="185" text-anchor="start">à verificação final</text></g>
 <line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#232D40" pathLength="100" style="animation-delay:0.85s"/>
 <g class="up" style="animation-delay:0.95s"><text class="cf" x="24" y="219">revisão por um segundo modelo de IA</text></g></g>
 </svg>

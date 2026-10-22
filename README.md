@@ -11,6 +11,7 @@
 <br/>
 
 <a href="https://singularhub.com.br"><img src="https://img.shields.io/badge/singularhub.com.br-165DFF?style=for-the-badge&logo=googlechrome&logoColor=07111F" alt="Site" /></a>
+<a href="https://www.linkedin.com/in/manoel-gomes-58234b246/"><img src="https://img.shields.io/badge/LinkedIn-161D2C?style=for-the-badge&logo=linkedin&logoColor=165DFF" alt="LinkedIn" /></a>
 <a href="mailto:singulartec.al@gmail.com"><img src="https://img.shields.io/badge/E--mail-161D2C?style=for-the-badge&logo=gmail&logoColor=165DFF" alt="E-mail" /></a>
 <a href="https://github.com/mgbn01/orquestrando-grok-e-codex-skill"><img src="https://img.shields.io/badge/Skill%20aberta-161D2C?style=for-the-badge&logo=github&logoColor=165DFF" alt="Skill aberta" /></a>
 <img src="https://img.shields.io/badge/Brasil%20%C2%B7%20remoto-161D2C?style=for-the-badge&logo=googlemaps&logoColor=165DFF" alt="Brasil · remoto" />
